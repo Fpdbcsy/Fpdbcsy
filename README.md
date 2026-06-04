@@ -12,9 +12,9 @@
 
 | 项目 | 简介 |
 | :--- | :--- |
-| 🎮 **[PAxx](https：//github.com/Fpdbcsy/PAxx/)** | PAxx游戏官网 |
-| ❄️ **[RHDX](https：//github.com/Fpdbcsy/RHDX/)** | 融化的雪 |
-| ✨ **[Aliya-cosmos](https：//github.com/Fpdbcsy/Aliya-cosmos/)** | 星尘为证·跨越千年的爱恋 |
+| 🎮 **[PAxx](https://fpdbcsy.github.io/PAxx/)** | PAxx游戏官网 |
+| ❄️ **[RHDX](https://fpdbcsy.github.io/RHDX/)** | 融化的雪 |
+| ✨ **[Aliya-cosmos](https://fpdbcsy.github.io/Aliya-cosmos/)** | 星尘为证·跨越千年的爱恋 |
 
 ### 📍 关于这个星球
 
